@@ -28,33 +28,33 @@ grid_navigation:
     - title: Project Overview
       excerpt: Section description
       cta: Read more
-      url: 'overview'
+      url: '/overview'
     - title: Domain-Driven Design
       excerpt: Section description
       cta: Read more
-      url: 'ddd'
+      url: '/ddd'
     - title: The Microservices 
       excerpt: Section description
       cta: Read more
-      url: 'microservices'
+      url: '/microservices'
     - title: Packaging with Helm
       excerpt: Section description
       cta: Read more
-      url: 'helm'
+      url: '/helm'
     - title: 'Istio: Ingress & Service Mesh'
       excerpt: Section description
       cta: Read more
-      url: 'istio'
+      url: '/istio'
     - title: Continuous Integration
       excerpt: Section description
       cta: Read more
-      url: 'continuous_integration'
+      url: '/continuous_integration'
     - title: Gitops with FluxCD
       excerpt: Section description
       cta: Read more
-      url: '#'
+      url: '/gitops'
     - title: Deploy with OpenTofu & Terragrunt
       excerpt: Section description
       cta: Read more
-      url: 'deploy'
+      url: '/deploy'
 ---
