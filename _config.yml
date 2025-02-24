@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: 
+    baseurl: /karaoke
     color_theme: green
     header:
         logo:
