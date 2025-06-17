@@ -21,8 +21,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Project Overview
-        url: '/overview'
+        content: Domain-Driven Design
+        url: '/ddd'
     next:
         content: Packaging with Helm
         url: '/helm'

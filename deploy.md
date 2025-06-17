@@ -25,4 +25,4 @@ page_nav:
         url: '/gitops'
 ---
 
-Write your markdown here ...
+<img src="/images/bootstrap-flux.png" width="550">

@@ -24,11 +24,17 @@ page_nav:
         content: Project Overview
         url: '/overview'
     next:
-        content: Packaging with Helm
-        url: '/helm'
+        content: The Microservices
+        url: '/microservices'
 ---
 
+<div class="callout callout--danger">
+    <p><strong>Lorem ipsum dolor sit amet!</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</div>
+
 ## The Use-Case
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Decomposing to Microservices
 
@@ -36,4 +42,20 @@ page_nav:
 
 ### The Queue
 
+<img src="/images/add-singer.png">
+
 ### Song Choices
+
+<img src="/images/next-singer.png">
+
+
+### Microservices Working Together
+
+<img src="/images/post-enqueued-singer.png">
+
+<img src="/images/get-enqueued-singer.png">
+
+<img src="/images/patch-queue.png">
+
+
+### Purpose-built Databases

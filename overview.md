@@ -24,8 +24,14 @@ page_nav:
     #     content: Previous page
     #     url: '#'
     next:
-        content: The Microservices
-        url: '/microservices'
+        content: Domain Driven Design
+        url: '/ddd'
 ---
+
+<div class="callout callout--danger">
+    <p><strong>Project In Progress!</strong> 
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</div>
 
 Write your markdown here ...
