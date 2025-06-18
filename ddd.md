@@ -58,4 +58,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="/images/patch-queue.png">
 
 
-### Purpose-built Databases
+### Purpose-Built Databases
