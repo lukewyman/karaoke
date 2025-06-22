@@ -42,20 +42,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### The Queue
 
-<img src="images/add-singer.png">
+<img src="/images/add-singer.png">
 
 ### Song Choices
 
-<img src="images/next-singer.png">
+<img src="/images/next-singer.png">
 
 
 ### Microservices Working Together
 
-<img src="images/post-enqueued-singer.png">
+<img src="/images/post-enqueued-singer.png">
 
-<img src="images/get-enqueued-singer.png">
+<img src="/images/get-enqueued-singer.png">
 
-<img src="images/patch-queue.png">
+<img src="/images/patch-queue.png">
 
 
 ### Purpose-Built Databases
