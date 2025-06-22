@@ -42,11 +42,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### The Queue
 
-<img src="{{ /images/add-singer.png | relative_url }}">
+<img src="./../images/add-singer.png">
 
 ### Song Choices
 
-<img src="/images/next-singer.png">
+<img src="./../images/next-singer.png">
 
 
 ### Microservices Working Together
