@@ -25,4 +25,4 @@ page_nav:
         url: '/gitops'
 ---
 
-<img src="/images/bootstrap-flux.png" width="550">
+<img src="./../images/bootstrap-flux.png" width="550">

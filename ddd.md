@@ -51,11 +51,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Microservices Working Together
 
-<img src="/images/post-enqueued-singer.png">
+<img src="./../images/post-enqueued-singer.png">
 
-<img src="/images/get-enqueued-singer.png">
+<img src="./../images/get-enqueued-singer.png">
 
-<img src="/images/patch-queue.png">
+<img src="./../images/patch-queue.png">
 
 
 ### Purpose-Built Databases
