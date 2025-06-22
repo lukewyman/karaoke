@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### The Queue
 
-<img src="/images/add-singer.png">
+<img src="{{ /images/add-singer.png | relative_url }}">
 
 ### Song Choices
 
