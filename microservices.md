@@ -24,8 +24,8 @@ page_nav:
         content: Domain-Driven Design
         url: '/ddd'
     next:
-        content: Packaging with Helm
-        url: '/helm'
+        content: DevOps Approach 1
+        url: '/devops_1'
 ---
 
 ## Project Organization

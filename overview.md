@@ -24,8 +24,8 @@ page_nav:
     #     content: Previous page
     #     url: '#'
     next:
-        content: Domain Driven Design
-        url: '/ddd'
+        content: The Use Case
+        url: '/use_case'
 ---
 
 <div class="callout callout--danger">

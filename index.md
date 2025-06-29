@@ -7,13 +7,9 @@ keywords:
 title: Karaoke
 description: Project description
 buttons:
-    - content: Button
-      url: '#'
-      external_url: false
-      color: red
-    - icon: github
-      content: Button with icon
-      url: '#'
+    - icon: arrow-right
+      content: Let's get started
+      url: '/overview'
       external_url: true
 
 # Author box
@@ -29,6 +25,10 @@ grid_navigation:
       excerpt: Section description
       cta: Read more
       url: '/overview'
+    - title: The Use Case
+      excerpt: Section description
+      cta: Read more
+      url: '/use_case'
     - title: Domain-Driven Design
       excerpt: Section description
       cta: Read more
@@ -37,24 +37,33 @@ grid_navigation:
       excerpt: Section description
       cta: Read more
       url: '/microservices'
-    - title: Packaging with Helm
-      excerpt: Section description
+    - title: "DevOps: Approach 1"
+      excerpt: |
+        Cloud infrastructure deployed with OpenTofu and Terragrunt. GitOps implemented with Flux CD. Kubernetes Ingress & Traffic Management implemented with Istio. Continuous Integration workflows implemented with GitHub Actions.
       cta: Read more
-      url: '/helm'
-    - title: 'Istio: Ingress & Service Mesh'
-      excerpt: Section description
+      url: '/devops_1'
+    - title: "DevOps: Approach 2"
+      excerpt: Cloud infrastructure deployed with Pulumi. GitOps implemented with ArgoCD. Kubernetes Ingress & Traffic Management implemented with linkerd. Continuous Integration workflows implemented with Gitlab CI.
       cta: Read more
-      url: '/istio'
-    - title: Continuous Integration
-      excerpt: Section description
-      cta: Read more
-      url: '/continuous_integration'
-    - title: Gitops with FluxCD
-      excerpt: Section description
-      cta: Read more
-      url: '/gitops'
-    - title: Deploy with OpenTofu & Terragrunt
-      excerpt: Section description
-      cta: Read more
-      url: '/deploy'
+      url: '/devops_2'
+    # - title: Packaging with Helm
+    #   excerpt: Section description
+    #   cta: Read more
+    #   url: '/helm'
+    # - title: 'Istio: Ingress & Service Mesh'
+    #   excerpt: Section description
+    #   cta: Read more
+    #   url: '/istio'
+    # - title: Continuous Integration
+    #   excerpt: Section description
+    #   cta: Read more
+    #   url: '/continuous_integration'
+    # - title: Gitops with FluxCD
+    #   excerpt: Section description
+    #   cta: Read more
+    #   url: '/gitops'
+    # - title: Deploy with OpenTofu & Terragrunt
+    #   excerpt: Section description
+    #   cta: Read more
+    #   url: '/deploy'
 ---

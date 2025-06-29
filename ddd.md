@@ -21,8 +21,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Project Overview
-        url: '/overview'
+        content: The Use Case
+        url: '/use_case'
     next:
         content: The Microservices
         url: '/microservices'
