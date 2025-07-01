@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Karaoke
-description: Project description
+description: An adventure in DevOps and Application Development, using an original, non-trivial use-case to explore developing and running Microservices on Kubernetes, deploying with Infrastructure as Code, and GitOps and CI/CD. 
 buttons:
     - icon: arrow-right
       content: Let's get started
@@ -14,10 +14,10 @@ buttons:
 
 # Author box
 author:
-    title: About Author
-    title_url: '#'
+    title: Luke Wyman
+    title_url: 'https://www.linkedin.com/in/lukewy/'
     external_url: true
-    description: Author description
+    description: A DevOps Engineer with experience in Domain-Driven Design and Application Development.
 
 # Grid navigation
 grid_navigation:
